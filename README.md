@@ -9,6 +9,7 @@ Microsoft acknowledges the growing trend of large corporations delving into orig
 Key Business Questions:
 1. Which genres of films are currently dominating the box office?
 2. How do factors such as budget influence a film's box office performance?
+3. Which are the top performing studios?
 
 Objectives:
 1. Gain a comprehensive understanding of the current landscape of the film industry, genre preferences.
@@ -35,3 +36,10 @@ No.	Table
 6	persons
 7	principals
 8	writers
+
+Conclusion:
+Based on the analysis, I recommend the following:
+1. Based on the genre, Microsoft should focus on Drama, comedy and action as they are the top three highly areted genres.
+2. Focus on the R-rated movies as they are most popular among the audience.
+3. Microsoft should ensure that they allocate high production budgets to the produce movies based on the positive correlation between the production budget and the net profits of about 0.6.
+4. The company shouls also consider patnering with other studios like Universal pictures studio tops, 20th century Fox and Paramount pictures who top the list of popular studios.
