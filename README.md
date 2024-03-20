@@ -17,3 +17,21 @@ Objectives:
 Data Understanding:
 The data used was provided to us via the original project repository. 
 The dataset provided includes information on recent and past movie releases, audience ratings and reviews, genre classifications, production budgets and revenues and other relevant metrics. 
+The data used in this project are data collected from:
+
+https://www.boxofficemojo.com/
+https://www.imdb.com/
+https://www.rottentomatoes.com/
+https://www.themoviedb.org/
+https://www.the-numbers.com/
+The imdb dataset contained 8 tables:
+
+No.	Table
+1	movie_basics
+2	directors
+3	known_for
+4	movie_akas
+5	movie_ratings
+6	persons
+7	principals
+8	writers
