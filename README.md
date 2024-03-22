@@ -11,6 +11,13 @@ Key Business Questions:
 2. How do factors such as budget influence a film's box office performance?
 3. Which are the top performing studios?
 
+Key stakeholders:
+1. Microsoft Executives and Decision-Makers: Senior executives and decision-makers within Microsoft would be the primary stakeholders driving the strategic direction of the new movie studio. 
+2.Content Creators and Filmmakers: Content creators, filmmakers, directors, writers, and other creative professionals involved in the production of Microsoft's films 
+3. Movie Studio Leadership Team: The leadership team of Microsoft's new movie studio, including studio heads, producers, and creative directors, would be closely involved in interpreting and implementing the findings from the box office data analysis.
+4. Marketing and Distribution Teams: Marketing and distribution teams within Microsoft's movie studio would be stakeholders interested in understanding audience preferences and market trends to develop effective marketing campaigns and distribution strategies for the studio's films. 
+
+
 Objectives:
 1. Gain a comprehensive understanding of the current landscape of the film industry, genre preferences.
 2. Translate insights into actionable recommendations that can guide Microsoft's new movie studio in deciding what types of films to create.
@@ -36,7 +43,19 @@ No.	Table
 7	principals
 8	writers
 
+Data Preparation:
+Once the data is understood, it needs to be prepared for analysis. This phase involved cleaning, transforming, and merging some of the data to make it suitable for analysing. Tasks may included handling missing values, outlier detection, duplicates, wrong data types.
 
+
+![Top Genre based on ratings](images/film ratings.png)
+
+![Top 10 Genre based on IMDB](images/ton 10 genre(IMDB).png)
+
+![Top 10 Studios](images/studio ratings.png)
+
+To see the non-technical presentation follow this link: https://github.com/Kamaukaguru/dsc-phase-1-project-v2-4/blob/master/Presentation.pdf
+
+ 
 Conclusion:
 Based on the analysis, I recommend the following:
 1. Based on the genre, Microsoft should focus on Drama, comedy and action as they are the top three highly areted genres.
